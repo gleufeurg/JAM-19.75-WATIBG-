@@ -14335,3 +14335,527 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-23.14.23:515][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
 [2023.10.27-23.14.23:521][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2023.10.27-23.14.23:565][243]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.10.27-23.25.45:510][ 85]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.25.45:513][ 85]LogBlueprint: Error: [AssetLog] C:\Users\p_delpit\Documents\GitHub\JAM-19.75-WATIBG-\Jam1975\Content\Dimension\BPC_Dimension_Movement.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2023.10.27-23.25.45:549][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.27-23.25.46:350][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.25.46:421][159]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.25.46:422][159]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement4370B25545F9CBB89A12C5BB1703F6F1.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.25.46:435][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1:59 min)
+[2023.10.27-23.25.46:441][159]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.25.46:441][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.26.04:812][152]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.26.04:845][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.27-23.26.05:344][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.26.05:408][191]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.26.05:409][191]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementE84DEF2C4DA486E92C817B8A8710FB1A.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.26.05:423][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:59 min)
+[2023.10.27-23.26.05:430][191]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.26.05:430][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.26.10:275][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.27-23.26.20:525][959]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2023.10.27-23.27.01:887][745]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.10.27-23.27.01:896][745]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.10.27-23.27.01:906][746]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.10.27-23.27.12:465][ 11]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Dimension
+[2023.10.27-23.27.12:466][ 11]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.10.27-23.27.13:542][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.27.13:598][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/IMC_Dimension" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/IMC_Dimension.uasset" SILENT=true
+[2023.10.27-23.27.13:599][138]LogSavePackage: Moving output files for package: /Game/Dimension/IMC_Dimension
+[2023.10.27-23.27.13:599][138]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/IMC_Dimension689B42CC43DA4AD72274879C4BC2FE66.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/IMC_Dimension.uasset'
+[2023.10.27-23.27.13:613][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1:59 min)
+[2023.10.27-23.27.13:623][138]AssetCheck: New page: Asset Save: IMC_Dimension
+[2023.10.27-23.27.13:623][138]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Dimension/IMC_Dimension.IMC_Dimension
+[2023.10.27-23.27.17:491][592]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Dimension/IMC_Dimension.IMC_Dimension
+[2023.10.27-23.27.35:988][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.27.36:046][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/IMC_Dimension" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/IMC_Dimension.uasset" SILENT=true
+[2023.10.27-23.27.36:047][764]LogSavePackage: Moving output files for package: /Game/Dimension/IMC_Dimension
+[2023.10.27-23.27.36:048][764]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/IMC_DimensionC45785544CB1BA1E65BD95B1D0EF2B35.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/IMC_Dimension.uasset'
+[2023.10.27-23.27.36:061][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:59 min)
+[2023.10.27-23.27.36:067][764]AssetCheck: New page: Asset Save: IMC_Dimension
+[2023.10.27-23.27.36:067][764]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Dimension/IMC_Dimension.IMC_Dimension
+[2023.10.27-23.27.36:420][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.27-23.27.52:003][626]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Spike.IA_Spike
+[2023.10.27-23.27.59:693][380]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.27.59:704][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.27.59:704][380]PIE: New page: PIE session: Dimension_test (28 oct. 2023 à 03:27:59)
+[2023.10.27-23.27.59:726][380]LogPlayLevel: Creating play world package: /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.27.59:729][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002831s)
+[2023.10.27-23.27.59:729][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimension/Dimension_test.Dimension_test to /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test (0.002872s)
+[2023.10.27-23.27.59:729][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.27.59:729][380]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.27.59:729][380]LogAIModule: Creating AISystem for world Dimension_test
+[2023.10.27-23.27.59:730][380]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2023.10.27-23.27.59:758][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.10.27-23.27.59:761][380]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.27.59:761][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.27.59:761][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.27.59:762][380]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.27.59:762][380]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.27.59:762][380]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.27.59:764][380]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.27.59:783][380]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KLIM Impact)
+[2023.10.27-23.27.59:783][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.27.59:783][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.27.59:783][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.27.59:784][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2023.10.27-23.27.59:784][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2023.10.27-23.27.59:787][380]LogInit: FAudioDevice initialized with ID 52.
+[2023.10.27-23.27.59:787][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2023.10.27-23.27.59:787][380]LogAudio: Display: Audio Device (ID: 52) registered with world 'Dimension_test'.
+[2023.10.27-23.27.59:787][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2023.10.27-23.27.59:787][380]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2023.10.27-23.27.59:790][380]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.27.59:790][380]LogWorld: Bringing World /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test up for play (max tick rate 0) at 2023.10.28-01.27.59
+[2023.10.27-23.27.59:793][380]LogWorld: Bringing up level for play took: 0.003138
+[2023.10.27-23.27.59:795][380]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.10.27-23.27.59:797][380]PIE: Server logged in
+[2023.10.27-23.27.59:798][380]PIE: Play in editor total start time 0,093 seconds.
+[2023.10.27-23.28.02:416][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.28.02:416][566]LogWorld: BeginTearingDown for /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.28.02:417][566]LogWorld: UWorld::CleanupWorld for Dimension_test, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.28.02:417][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.28.02:422][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.28.02:428][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.28.02:456][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-23.28.02:456][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2023.10.27-23.28.02:456][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.10.27-23.28.02:458][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.10.27-23.28.02:461][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.28.02:464][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-23.28.02:505][567]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.10.27-23.28.21:782][789]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.28.21:816][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.27-23.28.22:246][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.28.22:322][821]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.28.22:322][821]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementB93ACB02466B389B4F3233BAF6AF3BF1.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.28.22:336][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1:59 min)
+[2023.10.27-23.28.22:347][821]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.28.22:347][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.28.22:705][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.27-23.29.06:185][945]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.29.06:221][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.27-23.29.06:538][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.29.06:605][963]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.29.06:605][963]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement69DC3F98481D255C7AACB09AC077C4AC.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.29.06:620][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2:00 min)
+[2023.10.27-23.29.06:627][963]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.29.06:627][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.29.07:024][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.27-23.29.11:445][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.27-23.29.11:449][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.29.11:520][524]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.29.11:521][524]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementF268736D4E525D1E8BE44FB6C45000F5.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.29.11:536][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2:00 min)
+[2023.10.27-23.29.11:542][524]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.29.11:542][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.29.47:239][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.27-23.29.47:243][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.29.47:373][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.29.47:391][422]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.29.47:391][422]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoor0CB791BA49EE051D682D828FF9142664.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.29.47:406][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 2:00 min)
+[2023.10.27-23.29.47:412][422]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.29.47:412][422]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.29.52:104][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.27-23.29.52:108][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.29.52:178][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.29.52:203][943]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.29.52:204][943]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoor09AE7AD84194B54B78F67C9BDA94BE12.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.29.52:219][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2:00 min)
+[2023.10.27-23.29.52:226][943]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.29.52:226][943]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.30.01:923][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.27-23.30.01:927][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.01:987][998]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.30.01:988][998]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement505B5DEF460055F638200FBCC5CBA57C.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.30.02:002][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 2:00 min)
+[2023.10.27-23.30.02:009][998]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.30.02:009][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.30.23:191][168]BlueprintLog: New page: Compile BP_DimensionDoor
+[2023.10.27-23.30.23:257][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:257][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.23:267][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:267][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-23.30.23:308][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.27-23.30.23:316][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:316][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.23:335][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:335][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-23.30.23:344][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:344][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_76
+[2023.10.27-23.30.23:449][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:449][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.23:468][168]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.23:468][168]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_76
+[2023.10.27-23.30.23:757][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.23:880][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.30.23:897][184]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.30.23:898][184]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoorC2574A4E48996729DAFC779DEF4038F6.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.30.23:912][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2:00 min)
+[2023.10.27-23.30.23:919][184]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.30.23:919][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.30.24:245][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.27-23.30.24:251][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.24:339][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.27-23.30.24:351][218]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.30.24:351][218]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_testA2A2A587431AEA75F6926EA076389419.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.30.24:359][218]LogFileHelpers: Saving map 'Dimension_test' took 0.048
+[2023.10.27-23.30.24:374][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2:00 min)
+[2023.10.27-23.30.24:380][218]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.30.24:380][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.30.25:794][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.27-23.30.27:720][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.30.27:730][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.30.27:730][493]PIE: New page: PIE session: Dimension_test (28 oct. 2023 à 03:30:27)
+[2023.10.27-23.30.27:731][493]LogPlayLevel: Creating play world package: /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.30.27:736][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005793s)
+[2023.10.27-23.30.27:736][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimension/Dimension_test.Dimension_test to /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test (0.005842s)
+[2023.10.27-23.30.27:736][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.30.27:736][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.30.27:736][493]LogAIModule: Creating AISystem for world Dimension_test
+[2023.10.27-23.30.27:737][493]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2023.10.27-23.30.27:766][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.10.27-23.30.27:769][493]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.30.27:769][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.30.27:769][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.30.27:770][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.30.27:770][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.30.27:770][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.30.27:772][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.30.27:789][493]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KLIM Impact)
+[2023.10.27-23.30.27:789][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.30.27:789][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.30.27:790][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.30.27:790][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2023.10.27-23.30.27:790][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2023.10.27-23.30.27:792][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2023.10.27-23.30.27:792][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2023.10.27-23.30.27:792][493]LogInit: FAudioDevice initialized with ID 53.
+[2023.10.27-23.30.27:792][493]LogAudio: Display: Audio Device (ID: 53) registered with world 'Dimension_test'.
+[2023.10.27-23.30.27:792][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2023.10.27-23.30.27:795][493]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.30.27:795][493]LogWorld: Bringing World /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test up for play (max tick rate 0) at 2023.10.28-01.30.27
+[2023.10.27-23.30.27:798][493]LogWorld: Bringing up level for play took: 0.003119
+[2023.10.27-23.30.27:801][493]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.10.27-23.30.27:804][493]PIE: Server logged in
+[2023.10.27-23.30.27:804][493]PIE: Play in editor total start time 0,075 seconds.
+[2023.10.27-23.30.41:846][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.30.41:846][489]LogWorld: BeginTearingDown for /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.30.41:846][489]LogWorld: UWorld::CleanupWorld for Dimension_test, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.30.41:846][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.30.41:852][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.30.41:857][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.30.41:884][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.30.41:884][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2023.10.27-23.30.41:885][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.10.27-23.30.41:886][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.10.27-23.30.41:894][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.27-23.30.41:939][490]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.10.27-23.30.51:416][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.27-23.30.51:421][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.51:478][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.30.51:494][382]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.30.51:495][382]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoorBE9428064D5FAC2B763C4C8E063CA81C.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.30.51:511][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2:00 min)
+[2023.10.27-23.30.51:518][382]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.30.51:518][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.30.57:453][ 39]BlueprintLog: New page: Compile BP_DimensionDoor
+[2023.10.27-23.30.57:476][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:476][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.57:486][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:486][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_76
+[2023.10.27-23.30.57:527][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.27-23.30.57:537][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:537][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.57:555][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:555][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_76
+[2023.10.27-23.30.57:564][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:564][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_77
+[2023.10.27-23.30.57:674][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:674][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.30.57:692][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.30.57:692][ 39]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_77
+[2023.10.27-23.30.58:180][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.58:307][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.30.58:323][ 72]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.30.58:324][ 72]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoor506C0A0949B36EE82B9EE5B8430B38E6.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.30.58:340][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 2:01 min)
+[2023.10.27-23.30.58:346][ 72]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.30.58:346][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.30.58:658][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.27-23.30.58:663][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.30.58:757][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.27-23.30.58:769][106]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.30.58:770][106]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_testFFEEB5504A37D7B065B24BBD442DFE33.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.30.58:778][106]LogFileHelpers: Saving map 'Dimension_test' took 0.050
+[2023.10.27-23.30.58:792][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2:01 min)
+[2023.10.27-23.30.58:801][106]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.30.58:801][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.31.04:559][741]BlueprintLog: New page: Compile BP_DimensionDoor
+[2023.10.27-23.31.04:581][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:581][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.31.04:591][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:591][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_77
+[2023.10.27-23.31.04:635][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.27-23.31.04:642][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:642][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.31.04:661][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:661][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_77
+[2023.10.27-23.31.04:670][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:670][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.31.04:784][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:784][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.31.04:804][741]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.31.04:804][741]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.31.05:395][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.31.05:527][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.31.05:543][794]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.31.05:543][794]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoorE38221A3413B08AB360D0A9A577AB5B0.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.31.05:559][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 2:01 min)
+[2023.10.27-23.31.05:566][794]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.31.05:567][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.31.05:864][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.27-23.31.05:869][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.31.05:955][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.27-23.31.05:967][826]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.31.05:968][826]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_testDB13245D499411DFFF42EB95607C62FE.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.31.05:975][826]LogFileHelpers: Saving map 'Dimension_test' took 0.047
+[2023.10.27-23.31.05:990][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2:01 min)
+[2023.10.27-23.31.05:997][826]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.31.05:997][826]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.31.07:299][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.31.07:309][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.31.07:309][916]PIE: New page: PIE session: Dimension_test (28 oct. 2023 à 03:31:07)
+[2023.10.27-23.31.07:311][916]LogPlayLevel: Creating play world package: /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.31.07:314][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003219s)
+[2023.10.27-23.31.07:314][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimension/Dimension_test.Dimension_test to /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test (0.003256s)
+[2023.10.27-23.31.07:314][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.31.07:314][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.31.07:314][916]LogAIModule: Creating AISystem for world Dimension_test
+[2023.10.27-23.31.07:316][916]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2023.10.27-23.31.07:343][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.27-23.31.07:345][916]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.31.07:346][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.31.07:346][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.31.07:346][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.31.07:346][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.31.07:346][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.31.07:348][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.31.07:369][916]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KLIM Impact)
+[2023.10.27-23.31.07:369][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.31.07:369][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.31.07:369][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.31.07:370][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.10.27-23.31.07:370][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.10.27-23.31.07:372][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.10.27-23.31.07:372][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.10.27-23.31.07:372][916]LogInit: FAudioDevice initialized with ID 54.
+[2023.10.27-23.31.07:372][916]LogAudio: Display: Audio Device (ID: 54) registered with world 'Dimension_test'.
+[2023.10.27-23.31.07:372][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2023.10.27-23.31.07:375][916]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.31.07:376][916]LogWorld: Bringing World /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test up for play (max tick rate 0) at 2023.10.28-01.31.07
+[2023.10.27-23.31.07:378][916]LogWorld: Bringing up level for play took: 0.003220
+[2023.10.27-23.31.07:380][916]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.10.27-23.31.07:383][916]PIE: Server logged in
+[2023.10.27-23.31.07:384][916]PIE: Play in editor total start time 0,075 seconds.
+[2023.10.27-23.31.14:625][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.31.14:626][430]LogWorld: BeginTearingDown for /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.31.14:626][430]LogWorld: UWorld::CleanupWorld for Dimension_test, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.31.14:626][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.31.14:636][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.31.14:641][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.31.14:668][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.31.14:669][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2023.10.27-23.31.14:669][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.10.27-23.31.14:670][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.10.27-23.31.14:677][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.27-23.31.14:718][431]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.10.27-23.32.07:056][150]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.27-23.32.07:516][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.27-23.32.07:525][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.07:525][150]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.32.07:545][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.07:545][150]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.32.07:630][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.07:630][150]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.32.07:649][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.07:649][150]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.32.08:116][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.32.08:272][151]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.27-23.32.08:272][151]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_FirstPersonCharacterEC883F554B902E46A216E79E59AE9256.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.27-23.32.08:293][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 2:01 min)
+[2023.10.27-23.32.08:300][151]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.27-23.32.08:300][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.27-23.32.08:993][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.32.09:077][216]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.27-23.32.09:078][216]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_FirstPersonCharacter47B3C18B4EBB979C96F4AD907980D616.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.27-23.32.09:092][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2:01 min)
+[2023.10.27-23.32.09:098][216]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.27-23.32.09:098][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.27-23.32.09:336][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-23.32.09:342][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.32.09:422][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.27-23.32.09:434][237]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.32.09:435][237]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_test435141F042657514E7B0B498C42BCF6B.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.32.09:443][237]LogFileHelpers: Saving map 'Dimension_test' took 0.047
+[2023.10.27-23.32.09:460][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2:01 min)
+[2023.10.27-23.32.09:467][237]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.32.09:467][237]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.32.10:521][304]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.32.10:531][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.32.10:532][304]PIE: New page: PIE session: Dimension_test (28 oct. 2023 à 03:32:10)
+[2023.10.27-23.32.10:532][304]LogPlayLevel: Creating play world package: /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.32.10:537][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005034s)
+[2023.10.27-23.32.10:537][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimension/Dimension_test.Dimension_test to /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test (0.005095s)
+[2023.10.27-23.32.10:537][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.32.10:537][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.32.10:538][304]LogAIModule: Creating AISystem for world Dimension_test
+[2023.10.27-23.32.10:538][304]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2023.10.27-23.32.10:563][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.27-23.32.10:568][304]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.32.10:568][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.32.10:568][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.32.10:569][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.32.10:569][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.32.10:569][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.32.10:572][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.32.10:590][304]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KLIM Impact)
+[2023.10.27-23.32.10:590][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.32.10:591][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.32.10:591][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.32.10:591][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.10.27-23.32.10:591][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.10.27-23.32.10:593][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.10.27-23.32.10:593][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.10.27-23.32.10:593][304]LogInit: FAudioDevice initialized with ID 55.
+[2023.10.27-23.32.10:593][304]LogAudio: Display: Audio Device (ID: 55) registered with world 'Dimension_test'.
+[2023.10.27-23.32.10:593][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2023.10.27-23.32.10:596][304]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.32.10:597][304]LogWorld: Bringing World /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test up for play (max tick rate 0) at 2023.10.28-01.32.10
+[2023.10.27-23.32.10:600][304]LogWorld: Bringing up level for play took: 0.003624
+[2023.10.27-23.32.10:602][304]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2023.10.27-23.32.10:605][304]PIE: Server logged in
+[2023.10.27-23.32.10:605][304]PIE: Play in editor total start time 0,075 seconds.
+[2023.10.27-23.32.45:045][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.32.45:046][815]LogWorld: BeginTearingDown for /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.32.45:046][815]LogWorld: UWorld::CleanupWorld for Dimension_test, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.32.45:046][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.32.45:053][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.32.45:058][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.32.45:084][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.32.45:084][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2023.10.27-23.32.45:084][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.10.27-23.32.45:086][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.10.27-23.32.45:096][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.27-23.32.45:140][816]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.10.27-23.32.56:759][957]BlueprintLog: New page: Compile BP_DimensionDoor
+[2023.10.27-23.32.56:781][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:781][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.32.56:791][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:791][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.32.56:832][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.27-23.32.56:840][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:840][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.32.56:858][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:858][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_78
+[2023.10.27-23.32.56:867][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:867][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_79
+[2023.10.27-23.32.56:965][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:965][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.32.56:985][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.32.56:985][957]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_79
+[2023.10.27-23.32.57:155][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.32.57:291][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionDoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset" SILENT=true
+[2023.10.27-23.32.57:307][961]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionDoor
+[2023.10.27-23.32.57:308][961]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionDoorE90B87D7470FE8B904158E8A666BA868.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionDoor.uasset'
+[2023.10.27-23.32.57:323][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 2:02 min)
+[2023.10.27-23.32.57:329][961]AssetCheck: New page: Asset Save: BP_DimensionDoor
+[2023.10.27-23.32.57:329][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionDoor.BP_DimensionDoor
+[2023.10.27-23.32.57:583][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.27-23.32.57:589][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.32.57:674][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-23.32.57:689][987]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.32.57:689][987]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_test667C8917408A0527B22140BBB7DE5F81.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.32.57:698][987]LogFileHelpers: Saving map 'Dimension_test' took 0.053
+[2023.10.27-23.32.57:714][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2:02 min)
+[2023.10.27-23.32.57:721][987]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.32.57:721][987]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.32.58:853][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.32.58:863][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.32.58:863][ 67]PIE: New page: PIE session: Dimension_test (28 oct. 2023 à 03:32:58)
+[2023.10.27-23.32.58:885][ 67]LogPlayLevel: Creating play world package: /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.32.58:888][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002692s)
+[2023.10.27-23.32.58:888][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimension/Dimension_test.Dimension_test to /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test (0.002730s)
+[2023.10.27-23.32.58:888][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.32.58:888][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.32.58:888][ 67]LogAIModule: Creating AISystem for world Dimension_test
+[2023.10.27-23.32.58:888][ 67]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2023.10.27-23.32.58:915][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.27-23.32.58:917][ 67]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.32.58:917][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.32.58:917][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.32.58:917][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.32.58:917][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.32.58:917][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.32.58:919][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.32.58:939][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KLIM Impact)
+[2023.10.27-23.32.58:939][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.32.58:939][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.32.58:939][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.32.58:940][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.10.27-23.32.58:940][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.10.27-23.32.58:942][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.10.27-23.32.58:942][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.10.27-23.32.58:942][ 67]LogInit: FAudioDevice initialized with ID 56.
+[2023.10.27-23.32.58:942][ 67]LogAudio: Display: Audio Device (ID: 56) registered with world 'Dimension_test'.
+[2023.10.27-23.32.58:942][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2023.10.27-23.32.58:945][ 67]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.32.58:945][ 67]LogWorld: Bringing World /Game/Dimension/UEDPIE_0_Dimension_test.Dimension_test up for play (max tick rate 0) at 2023.10.28-01.32.58
+[2023.10.27-23.32.58:949][ 67]LogWorld: Bringing up level for play took: 0.003514
+[2023.10.27-23.32.58:951][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2023.10.27-23.32.58:953][ 67]PIE: Server logged in
+[2023.10.27-23.32.58:954][ 67]PIE: Play in editor total start time 0,091 seconds.
+[2023.10.27-23.33.07:775][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.33.07:775][681]LogWorld: BeginTearingDown for /Game/Dimension/UEDPIE_0_Dimension_test
+[2023.10.27-23.33.07:775][681]LogWorld: UWorld::CleanupWorld for Dimension_test, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.33.07:776][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.33.07:780][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.33.07:786][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.33.07:813][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.33.07:814][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2023.10.27-23.33.07:814][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.10.27-23.33.07:816][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.10.27-23.33.07:861][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.10.27-23.33.07:918][682]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.10.27-23.33.08:886][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
