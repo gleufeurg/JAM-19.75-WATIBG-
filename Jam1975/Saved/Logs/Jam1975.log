@@ -9523,3 +9523,56 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-20.50.41:091][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2023.10.27-20.50.54:380][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2023.10.27-20.50.57:639][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.27-20.52.21:003][916]Cmd: EDIT COPY
+[2023.10.27-20.52.27:759][247]LogSlate: Window 'New Level' being destroyed
+[2023.10.27-20.52.27:765][247]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.27-20.52.27:766][247]LightingResults: New page: Lighting Build
+[2023.10.27-20.52.27:768][247]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.10.27-20.52.27:772][247]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-20.52.27:772][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-20.52.27:772][247]MapCheck: New page: Map Check
+[2023.10.27-20.52.27:772][247]LightingResults: New page: Lighting Build
+[2023.10.27-20.52.27:797][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-20.52.27:801][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.27-20.52.27:807][247]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.10.27-20.52.27:807][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-20.52.27:807][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-20.52.27:807][247]LogAIModule: Creating AISystem for world Untitled_1
+[2023.10.27-20.52.27:828][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.27-20.52.27:854][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-20.52.27:856][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.27-20.52.27:856][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,251ms to complete.
+[2023.10.27-20.52.27:856][247]LogFileHelpers: Loading map 'Template_Default' took 0.092
+[2023.10.27-20.52.27:993][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:994][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:994][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:995][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:995][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:996][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:996][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:997][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:997][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.27:998][248]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.27-20.52.31:954][533]Cmd: EDIT PASTE
+[2023.10.27-20.52.32:039][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:040][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:041][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:041][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:042][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:042][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:043][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:044][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:044][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.32:044][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-20.52.33:324][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.27-20.52.33:329][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-20.52.43:298][624]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.27-20.52.43:355][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.27-20.52.43:364][624]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-20.52.43:364][624]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_testB76E7C7343A7B33273114095D3B0885B.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-20.52.43:373][624]LogFileHelpers: Saving map 'Dimension_test' took 0.044
+[2023.10.27-20.52.43:383][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.0 sec (total: 45.7 sec)
+[2023.10.27-20.52.43:388][624]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-20.52.43:389][624]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-20.52.43:394][625]LogAutomationController: Ignoring very large delta of 10.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.27-20.52.44:530][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
