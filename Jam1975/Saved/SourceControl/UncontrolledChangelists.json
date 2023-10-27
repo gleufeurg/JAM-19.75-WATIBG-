@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/TesteUI.uasset",
+				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/TesteImage.uasset",
+				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/TesteImage2.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Level.umap",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Core/BPC_Skill.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
