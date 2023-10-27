@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Jam1975/Saved/Logs/Jam1975.log
+*.log
+*.log
