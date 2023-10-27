@@ -1455,3 +1455,167 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-22.55.24:958][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 379 ms)
 [2023.10.27-22.55.24:963][598]AssetCheck: New page: Asset Save: BPC_Spike
 [2023.10.27-22.55.24:963][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Skills/Spike/BPC_Spike.BPC_Spike
+[2023.10.27-22.56.27:382][941]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.27-22.56.27:382][941]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.27-22.56.58:543][679]BlueprintLog: New page: Compile BPC_Spike
+[2023.10.27-22.56.58:593][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.10.27-22.56.59:069][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.56.59:126][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/Spike/BPC_Spike" FILE="../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset" SILENT=true
+[2023.10.27-22.56.59:136][724]LogSavePackage: Moving output files for package: /Game/Skills/Spike/BPC_Spike
+[2023.10.27-22.56.59:136][724]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_SpikeBD8CE5EB48C337A556A42BB3AA34C8B6.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset'
+[2023.10.27-22.56.59:144][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 453 ms)
+[2023.10.27-22.56.59:150][724]AssetCheck: New page: Asset Save: BPC_Spike
+[2023.10.27-22.56.59:150][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Skills/Spike/BPC_Spike.BPC_Spike
+[2023.10.27-22.57.12:892][370]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.27-22.57.22:951][539]BlueprintLog: New page: Compile BPC_Spike
+[2023.10.27-22.57.22:999][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.27-22.57.23:319][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.57.23:374][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Skills/Spike/BPC_Spike" FILE="../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset" SILENT=true
+[2023.10.27-22.57.23:384][572]LogSavePackage: Moving output files for package: /Game/Skills/Spike/BPC_Spike
+[2023.10.27-22.57.23:385][572]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Spike9F0CFF624A6E4C0EC184FFB1891C1366.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset'
+[2023.10.27-22.57.23:393][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 526 ms)
+[2023.10.27-22.57.23:398][572]AssetCheck: New page: Asset Save: BPC_Spike
+[2023.10.27-22.57.23:398][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Skills/Spike/BPC_Spike.BPC_Spike
+[2023.10.27-22.57.35:433][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-22.57.35:439][966]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-22.57.35:441][966]LogPlayLevel: [PlayLevel] Compiling BPC_Spike before play...
+[2023.10.27-22.57.35:508][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.27-22.57.35:509][966]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2023.10.27-22.57.35:509][966]PIE: New page: PIE session: Level (28 oct. 2023 à 02:57:35)
+[2023.10.27-22.57.35:509][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.10.27-22.57.35:511][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001962s)
+[2023.10.27-22.57.35:511][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.001991s)
+[2023.10.27-22.57.35:512][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.57.35:512][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-22.57.35:512][966]LogAIModule: Creating AISystem for world Level
+[2023.10.27-22.57.35:513][966]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2023.10.27-22.57.35:536][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.27-22.57.35:537][966]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-22.57.35:537][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-22.57.35:537][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-22.57.35:538][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-22.57.35:538][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-22.57.35:538][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-22.57.35:540][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-22.57.35:561][966]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.27-22.57.35:562][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-22.57.35:562][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-22.57.35:562][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-22.57.35:563][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.27-22.57.35:563][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.27-22.57.35:565][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.27-22.57.35:565][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.27-22.57.35:565][966]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.27-22.57.35:565][966]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level'.
+[2023.10.27-22.57.35:565][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.27-22.57.35:611][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-22.57.35:611][966]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-22.57.35:612][966]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2023.10.28-00.57.35
+[2023.10.27-22.57.35:612][966]LogWorld: Bringing up level for play took: 0.000934
+[2023.10.27-22.57.35:615][966]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.10.27-22.57.35:619][966]PIE: Server logged in
+[2023.10.27-22.57.35:620][966]PIE: Play in editor total start time 0,181 seconds.
+[2023.10.27-22.57.35:643][966]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-22.57.36:896][ 25]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=53.934 Z=19.689] for [BP_Spike_C]
+[2023.10.27-22.57.37:292][ 53]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=51.570 Z=66.603] for [BP_Spike_C]
+[2023.10.27-22.57.37:479][ 66]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=54.378 Z=60.146] for [BP_Spike_C]
+[2023.10.27-22.57.37:678][ 80]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=57.122 Z=47.702] for [BP_Spike_C]
+[2023.10.27-22.57.38:254][120]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=275.484 Y=-15.000 Z=82.347] for [BP_Spike_C]
+[2023.10.27-22.57.39:480][206]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=97.961 Z=33.425] for [BP_Spike_C]
+[2023.10.27-22.57.39:610][215]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=255.000 Y=26.987 Z=56.948] for [BP_Spike_C]
+[2023.10.27-22.57.40:067][247]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=171.400 Y=7.393 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.41:706][364]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=505.012 Y=137.695 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.42:840][444]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=270.533 Y=115.000 Z=92.970] for [BP_Spike_C]
+[2023.10.27-22.57.43:892][518]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=258.416 Y=346.364 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.44:328][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=357.498 Y=523.849 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.44:487][560]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=381.786 Y=615.661 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.44:779][580]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=426.273 Y=753.326 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.46:366][691]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=32.945 Y=929.372 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.46:697][714]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=330.349 Y=859.626 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.46:895][728]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=391.585 Y=915.670 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.47:059][740]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=404.786 Y=936.674 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.47:222][752]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=419.413 Y=962.339 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.48:334][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=706.371 Y=801.085 Z=14.500] for [BP_Spike_C]
+[2023.10.27-22.57.48:537][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-22.57.48:537][844]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.10.27-22.57.48:538][844]LogSlate: Window 'Jam1975 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.27-22.57.48:543][844]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-22.57.48:543][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-22.57.48:545][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-22.57.48:550][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-22.57.48:573][844]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.27-22.57.48:573][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.27-22.57.48:574][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.27-22.57.48:581][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.27-22.57.48:602][845]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.10.27-22.57.51:427][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-22.57.51:433][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.27-22.57.51:435][156]LogPlayLevel: [PlayLevel] Compiling BPC_Spike before play...
+[2023.10.27-22.57.51:502][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-22.57.51:503][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2023.10.27-22.57.51:503][156]PIE: New page: PIE session: Level (28 oct. 2023 à 02:57:51)
+[2023.10.27-22.57.51:503][156]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level
+[2023.10.27-22.57.51:504][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001898s)
+[2023.10.27-22.57.51:504][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level.Level to /Game/UEDPIE_0_Level.Level (0.001925s)
+[2023.10.27-22.57.51:504][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.57.51:504][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-22.57.51:505][156]LogAIModule: Creating AISystem for world Level
+[2023.10.27-22.57.51:505][156]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2023.10.27-22.57.51:529][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-22.57.51:530][156]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-22.57.51:530][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-22.57.51:530][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-22.57.51:531][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-22.57.51:531][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-22.57.51:531][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-22.57.51:533][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-22.57.51:554][156]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.27-22.57.51:554][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-22.57.51:554][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-22.57.51:554][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-22.57.51:555][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.27-22.57.51:555][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.27-22.57.51:557][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.27-22.57.51:558][156]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.27-22.57.51:558][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.27-22.57.51:558][156]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level'.
+[2023.10.27-22.57.51:558][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.27-22.57.51:609][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-22.57.51:609][156]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-22.57.51:610][156]LogWorld: Bringing World /Game/UEDPIE_0_Level.Level up for play (max tick rate 0) at 2023.10.28-00.57.51
+[2023.10.27-22.57.51:610][156]LogWorld: Bringing up level for play took: 0.000886
+[2023.10.27-22.57.51:612][156]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.10.27-22.57.51:615][156]PIE: Server logged in
+[2023.10.27-22.57.51:616][156]PIE: Play in editor total start time 0,184 seconds.
+[2023.10.27-22.57.51:640][156]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.27-22.58.12:897][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-22.58.12:897][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level
+[2023.10.27-22.58.12:898][634]LogSlate: Window 'Jam1975 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.27-22.58.12:904][634]LogWorld: UWorld::CleanupWorld for Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-22.58.12:904][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-22.58.12:907][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-22.58.12:912][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-22.58.12:935][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.27-22.58.12:935][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.27-22.58.12:936][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.27-22.58.12:944][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.27-22.58.12:962][635]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.10.27-23.04.03:688][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.27-23.04.03:690][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level' took 0.033
+[2023.10.27-23.04.03:690][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Skills/Spike/BPC_Spike] ([2] browsable assets)...
+[2023.10.27-23.04.03:690][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skills/Spike/BPC_Spike]
+[2023.10.27-23.04.03:699][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Skills/Spike/BPC_Spike_Auto1
+[2023.10.27-23.04.03:700][478]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Spike_Auto18C074A8549023EC760F4B4AF6A89D16E.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/Skills/Spike/BPC_Spike_Auto1.uasset'
+[2023.10.27-23.04.03:700][478]LogFileHelpers: Auto-saving content packages took 0.010
