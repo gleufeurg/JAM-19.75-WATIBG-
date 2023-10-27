@@ -4061,3 +4061,132 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-22.32.00:263][178]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WPB_PauseMenu_Auto8FBE9CDDE4E943F6E26786CB9BF4B1F69.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Widget/WPB_PauseMenu_Auto8.uasset'
 [2023.10.27-22.32.00:264][178]LogFileHelpers: Auto-saving content packages took 0.129
 [2023.10.27-22.55.44:816][452]LogDerivedDataCache: C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.163 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 788 files in 1343 folders with total size 55 MiB.
+[2023.10.27-23.42.27:470][135]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-23.42.27:471][135]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75MiniMap.png]
+[2023.10.27-23.42.27:475][135]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-23.42.27:481][136]LogTexture: Display: Building textures: /Game/UI/Import/MiniMap.MiniMap (TFO_AutoDXT, 600x400 x1x1x1) (Required Memory Estimate: 38.563477 MB), EncodeSpeed: Fast
+[2023.10.27-23.42.27:495][136]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-23.42.27:500][136]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-23.42.57:770][271]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.27-23.43.44:269][339]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-23.43.44:269][339]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Pause_Menu_Frame.png]
+[2023.10.27-23.43.44:280][339]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-23.43.44:285][339]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-23.43.44:287][339]LogTexture: Display: Building textures: /Game/UI/Import/Pause_Menu_Frame.Pause_Menu_Frame (TFO_AutoDXT, 800x800 x1x1x1) (Required Memory Estimate: 61.481761 MB), EncodeSpeed: Fast
+[2023.10.27-23.43.44:308][340]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-23.43.46:990][506]BlueprintLog: New page: Compile WPB_PauseMenu
+[2023.10.27-23.43.47:090][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.10.27-23.43.48:156][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-23.43.48:159][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2023.10.27-23.43.48:159][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.27-23.43.48:183][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.27-23.43.48:183][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.27-23.43.48:197][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2023.10.27-23.43.48:197][566]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_FirstPersonCharacter_Auto981807BE4463D432F2B6389A0E2C1DDEE.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2023.10.27-23.43.48:198][566]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widget/WPB_PauseMenu] ([2] browsable assets)...
+[2023.10.27-23.43.48:201][566]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widget/WPB_PauseMenu.WPB_PauseMenu]
+[2023.10.27-23.43.48:201][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widget/WPB_PauseMenu]
+[2023.10.27-23.43.48:210][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widget/WPB_PauseMenu_Auto9
+[2023.10.27-23.43.48:210][566]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WPB_PauseMenu_Auto94B88DE6D438E1042BFFBDEA828704AF4.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Widget/WPB_PauseMenu_Auto9.uasset'
+[2023.10.27-23.43.48:212][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/Pause_Menu_Frame] ([1] browsable assets)...
+[2023.10.27-23.43.48:214][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/Pause_Menu_Frame.Pause_Menu_Frame]
+[2023.10.27-23.43.48:214][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Pause_Menu_Frame]
+[2023.10.27-23.43.48:218][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Pause_Menu_Frame_Auto9
+[2023.10.27-23.43.48:218][566]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Pause_Menu_Frame_Auto9D63ECCF24C93DCD98BEBD2840EBD8851.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Pause_Menu_Frame_Auto9.uasset'
+[2023.10.27-23.43.48:219][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/MiniMap] ([1] browsable assets)...
+[2023.10.27-23.43.48:221][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/MiniMap.MiniMap]
+[2023.10.27-23.43.48:222][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/MiniMap]
+[2023.10.27-23.43.48:224][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/MiniMap_Auto9
+[2023.10.27-23.43.48:224][566]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/MiniMap_Auto91CF60B734DF7946DFFCEC8A663B6D0B1.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/MiniMap_Auto9.uasset'
+[2023.10.27-23.43.48:225][566]LogFileHelpers: Auto-saving content packages took 0.066
+[2023.10.27-23.43.48:593][593]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.27-23.43.48:601][593]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.27-23.43.48:603][593]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.27-23.43.48:603][593]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.27-23.43.48:603][593]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 1 ms)
+[2023.10.27-23.43.48:603][593]LogWorldPartition: Display: GenerateStreaming took 358 us (total: 9 ms)
+[2023.10.27-23.43.48:604][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.27-23.43.48:604][593]PIE: New page: PIE session: FirstPersonMap (28 oct. 2023 à 03:43:48)
+[2023.10.27-23.43.48:604][593]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.27-23.43.48:614][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009738s)
+[2023.10.27-23.43.48:614][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009791s)
+[2023.10.27-23.43.48:614][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.43.48:614][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.43.48:615][593]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.10.27-23.43.48:616][593]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.27-23.43.48:616][593]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.27-23.43.48:616][593]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.27-23.43.48:618][593]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.10.27-23.43.48:618][593]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 527 ms)
+[2023.10.27-23.43.48:618][593]LogPlayLevel: PIE: World Init took: (0.003829s)
+[2023.10.27-23.43.48:644][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.27-23.43.48:645][593]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.27-23.43.48:645][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.27-23.43.48:645][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.27-23.43.48:646][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.27-23.43.48:646][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.27-23.43.48:646][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.27-23.43.48:647][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.27-23.43.48:670][593]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.27-23.43.48:670][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.27-23.43.48:670][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.27-23.43.48:670][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.27-23.43.48:672][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.10.27-23.43.48:672][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.10.27-23.43.48:673][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.10.27-23.43.48:674][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.10.27-23.43.48:674][593]LogInit: FAudioDevice initialized with ID 29.
+[2023.10.27-23.43.48:674][593]LogAudio: Display: Audio Device (ID: 29) registered with world 'FirstPersonMap'.
+[2023.10.27-23.43.48:674][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.10.27-23.43.48:678][593]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.10.27-23.43.48:681][593]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.10.28-01.43.48
+[2023.10.27-23.43.48:681][593]LogWorld: Bringing up level for play took: 0.002853
+[2023.10.27-23.43.48:683][593]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.10.27-23.43.48:687][593]PIE: Server logged in
+[2023.10.27-23.43.48:688][593]PIE: Play in editor total start time 0,087 seconds.
+[2023.10.27-23.43.48:708][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:708][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:709][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:709][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:711][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:711][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:711][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:711][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:852][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:852][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:853][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:853][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:854][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:854][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:854][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.48:855][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-23.43.50:101][686]LogBlueprintUserMessages: [WPB_PauseMenu_C_0] Hello
+[2023.10.27-23.43.56:922][177]LogBlueprintUserMessages: [WPB_PauseMenu_C_1] Hello
+[2023.10.27-23.44.27:260][338]LogBlueprintUserMessages: [WPB_PauseMenu_C_2] Hello
+[2023.10.27-23.44.28:135][399]LogBlueprintUserMessages: [WPB_PauseMenu_C_3] Hello
+[2023.10.27-23.44.33:446][774]LogBlueprintUserMessages: [WPB_PauseMenu_C_4] Hello
+[2023.10.27-23.44.36:954][ 24]LogBlueprintUserMessages: [WPB_PauseMenu_C_5] Hello
+[2023.10.27-23.44.39:052][171]LogBlueprintUserMessages: [WPB_PauseMenu_C_6] Hello
+[2023.10.27-23.44.47:321][754]LogBlueprintUserMessages: [WPB_PauseMenu_C_7] Hello
+[2023.10.27-23.44.49:826][931]LogBlueprintUserMessages: [WPB_PauseMenu_C_8] Hello
+[2023.10.27-23.44.50:910][  7]LogBlueprintUserMessages: [WPB_PauseMenu_C_9] Hello
+[2023.10.27-23.44.56:828][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.44.56:828][431]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.10.27-23.44.56:828][431]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-23.44.56:829][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.44.56:829][431]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.10.27-23.44.56:833][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.27-23.44.56:839][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-23.44.56:868][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.27-23.44.56:868][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.10.27-23.44.56:868][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.27-23.44.56:870][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.27-23.44.56:874][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.27-23.44.56:878][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.27-23.44.56:926][432]LogPlayLevel: Display: Destroying online subsystem :Context_43
