@@ -1762,3 +1762,86 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-20.40.36:137][837]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/Import/TesteImage.TesteImage
 [2023.10.27-20.40.36:137][837]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Import/TesteUI.TesteUI
 [2023.10.27-20.40.36:138][837]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/Import/TesteImage2.TesteImage2
+[2023.10.27-20.44.36:286][  9]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.27-20.44.36:302][  9]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.27-20.44.36:310][ 10]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.27-20.44.40:777][340]LogContentBrowser: Attempting asset rename: NewFolder -> Widget
+[2023.10.27-20.44.40:778][340]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.27-20.44.48:483][779]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.27-20.44.48:490][779]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.27-20.44.48:494][779]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.27-20.44.48:511][781]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.27-20.45.32:274][977]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Capa_Normal
+[2023.10.27-20.45.32:285][977]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.27-20.45.35:638][220]LogContentBrowser: Deferred new asset file creation: WBP_Capa_Normal1
+[2023.10.27-20.45.35:642][220]LogContentBrowser: Creating deferred item: WBP_Capa_Normal1
+[2023.10.27-20.45.35:657][221]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_Capa_Normal1).
+[2023.10.27-20.45.42:821][739]LogContentBrowser: Attempting asset rename: WBP_Capa_Normal1 -> WBP_Capa_Cooldown
+[2023.10.27-20.45.42:854][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.27-20.45.42:864][739]LogContentBrowser: End creating deferred item WBP_Capa_Normal1
+[2023.10.27-20.45.43:997][821]LogContentBrowser: Deferred new asset file creation: WBP_Capa_Cooldown1
+[2023.10.27-20.45.44:002][821]LogContentBrowser: Creating deferred item: WBP_Capa_Cooldown1
+[2023.10.27-20.45.44:019][822]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_Capa_Cooldown1).
+[2023.10.27-20.45.51:410][356]LogContentBrowser: Attempting asset rename: WBP_Capa_Cooldown1 -> WBP_Capa_Full
+[2023.10.27-20.45.51:439][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.27-20.45.51:447][356]LogContentBrowser: End creating deferred item WBP_Capa_Cooldown1
+[2023.10.27-20.45.52:638][442]LogContentBrowser: Deferred new asset file creation: WBP_Capa_Full1
+[2023.10.27-20.45.52:643][442]LogContentBrowser: Creating deferred item: WBP_Capa_Full1
+[2023.10.27-20.45.52:661][443]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_Capa_Full1).
+[2023.10.27-20.45.59:052][907]LogContentBrowser: Attempting asset rename: WBP_Capa_Full1 -> WBP_Capa_Use
+[2023.10.27-20.45.59:080][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.10.27-20.45.59:088][907]LogContentBrowser: End creating deferred item WBP_Capa_Full1
+[2023.10.27-20.46.01:596][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.10.27-20.46.01:599][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-20.46.01:661][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widget/WBP_Capa_Normal" FILE="../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Normal.uasset" SILENT=true
+[2023.10.27-20.46.01:664][ 79]LogSavePackage: Moving output files for package: /Game/UI/Widget/WBP_Capa_Normal
+[2023.10.27-20.46.01:664][ 79]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WBP_Capa_Normal4A8602FC461D4E42FA780998857B2C58.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Normal.uasset'
+[2023.10.27-20.46.01:670][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widget/WBP_Capa_Cooldown" FILE="../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Cooldown.uasset" SILENT=true
+[2023.10.27-20.46.01:672][ 79]LogSavePackage: Moving output files for package: /Game/UI/Widget/WBP_Capa_Cooldown
+[2023.10.27-20.46.01:672][ 79]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WBP_Capa_CooldownAC9D1479441A5EBE0A540998D74BEACD.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Cooldown.uasset'
+[2023.10.27-20.46.01:677][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widget/WBP_Capa_Full" FILE="../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Full.uasset" SILENT=true
+[2023.10.27-20.46.01:680][ 79]LogSavePackage: Moving output files for package: /Game/UI/Widget/WBP_Capa_Full
+[2023.10.27-20.46.01:680][ 79]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WBP_Capa_FullB869B23348B5241238B2A3873A0A6BD0.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Full.uasset'
+[2023.10.27-20.46.01:686][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widget/WBP_Capa_Use" FILE="../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Use.uasset" SILENT=true
+[2023.10.27-20.46.01:689][ 79]LogSavePackage: Moving output files for package: /Game/UI/Widget/WBP_Capa_Use
+[2023.10.27-20.46.01:689][ 79]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WBP_Capa_Use242D82894793140D0E1C2F81A5A7E6E4.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WBP_Capa_Use.uasset'
+[2023.10.27-20.46.01:699][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 326 ms)
+[2023.10.27-20.46.01:705][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.27-20.46.01:705][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widget/WBP_Capa_Use.WBP_Capa_Use
+[2023.10.27-20.46.01:705][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widget/WBP_Capa_Cooldown.WBP_Capa_Cooldown
+[2023.10.27-20.46.01:705][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widget/WBP_Capa_Normal.WBP_Capa_Normal
+[2023.10.27-20.46.01:706][ 79]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widget/WBP_Capa_Full.WBP_Capa_Full
+[2023.10.27-20.52.36:526][759]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.27-20.52.36:540][759]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.27-20.52.36:546][760]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.27-20.52.40:833][ 69]LogContentBrowser: Attempting asset rename: NewFolder -> Capa_Image
+[2023.10.27-20.52.40:834][ 69]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.27-20.52.46:032][183]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-20.52.46:032][183]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Capa_Normal.png]
+[2023.10.27-20.52.46:032][183]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.10.27-20.52.46:033][183]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.10.27-20.52.46:033][183]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.10.27-20.52.46:036][183]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-20.52.46:041][184]LogTexture: Display: Building textures: /Game/UI/Import/Capa_Image/Capa_Normal.Capa_Normal (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Fast
+[2023.10.27-20.52.46:042][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:042][184]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-20.52.46:042][184]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Capa_Off.png]
+[2023.10.27-20.52.46:042][184]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.10.27-20.52.46:048][184]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-20.52.46:077][184]LogTexture: Display: Building textures: /Game/UI/Import/Capa_Image/Capa_Off.Capa_Off (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Fast
+[2023.10.27-20.52.46:077][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:077][184]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-20.52.46:077][184]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Capa_Usable.png]
+[2023.10.27-20.52.46:077][184]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.10.27-20.52.46:083][184]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-20.52.46:085][184]LogTexture: Display: Building textures: /Game/UI/Import/Capa_Image/Capa_Usable.Capa_Usable (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Fast
+[2023.10.27-20.52.46:086][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:086][184]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-20.52.46:086][184]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Capa_Coldwon.png]
+[2023.10.27-20.52.46:094][184]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-20.52.46:094][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:109][184]LogTexture: Display: Building textures: /Game/UI/Import/Capa_Image/Capa_Coldwon.Capa_Coldwon (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Fast
+[2023.10.27-20.52.46:114][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:146][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:150][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.52.46:160][184]LogInterchangeEngine: [Success] Import Done
