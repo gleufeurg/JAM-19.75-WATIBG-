@@ -13914,3 +13914,367 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-22.36.07:288][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.27-22.36.07:289][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.27-22.36.07:322][876]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.10.27-22.42.16:163][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/BPC_Skill.BPC_Skill
+[2023.10.27-22.42.16:164][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.42.16:164][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-22.42.23:077][171]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-22.42.23:077][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-22.43.35:917][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.27-22.43.35:918][ 94]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.43.35:918][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-22.43.44:883][ 77]BlueprintLog: New page: Compile BP_DimensionUndoor
+[2023.10.27-22.43.44:990][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.10.27-22.43.44:997][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-22.43.44:997][ 77]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-22.43.45:016][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-22.43.45:016][ 77]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-22.43.45:057][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-22.43.45:057][ 77]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-22.43.45:075][ 77]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-22.43.45:075][ 77]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-22.43.45:420][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.43.45:487][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionUndoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset" SILENT=true
+[2023.10.27-22.43.45:493][108]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionUndoor
+[2023.10.27-22.43.45:494][108]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionUndoor42633DE34275ACFC462CF5A5C6BE4C33.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset'
+[2023.10.27-22.43.45:507][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1:57 min)
+[2023.10.27-22.43.45:513][108]AssetCheck: New page: Asset Save: BP_DimensionUndoor
+[2023.10.27-22.43.45:513][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionUndoor.BP_DimensionUndoor
+[2023.10.27-22.43.47:785][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.27-22.43.47:791][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.43.47:862][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.27-22.43.47:872][377]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-22.43.47:873][377]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_test8D782ECF4FD02C7E6F6B6CB8FE0AEAEC.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-22.43.47:880][377]LogFileHelpers: Saving map 'Dimension_test' took 0.045
+[2023.10.27-22.43.47:892][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1:57 min)
+[2023.10.27-22.43.47:899][377]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-22.43.47:899][377]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-22.52.25:577][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.27-22.55.37:554][717]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.27-22.55.37:569][717]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.27-22.55.37:586][717]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.27-22.55.37:589][718]LogAutomationController: Ignoring very large delta of 44.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.27-22.55.37:608][718]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.27-22.55.51:679][336]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Dimension_Movement
+[2023.10.27-22.55.51:686][336]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.27-22.55.52:285][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.55.52:367][395]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.55.52:367][395]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement8ED6AEB54F0CD96FDCF9B48FE785F189.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.55.52:395][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1:57 min)
+[2023.10.27-22.55.52:404][395]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.55.52:404][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.55.53:483][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.55.53:483][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.55.53:483][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-22.55.55:187][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.27-22.56.41:942][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.27-22.56.41:946][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.56.42:004][894]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.56.42:005][894]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement806060EA471E0656597F9792DECE6A74.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.56.42:019][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:57 min)
+[2023.10.27-22.56.42:025][894]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.56.42:025][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.56.44:137][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.27-22.56.44:141][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.56.44:203][145]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.56.44:204][145]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementC46C702B4D8006D6A39F93816D3467C5.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.56.44:217][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1:57 min)
+[2023.10.27-22.56.44:224][145]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.56.44:224][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.56.46:733][445]LogEditorTransaction: Undo Move Node
+[2023.10.27-22.56.47:263][447]LogEditorTransaction: Undo Move Node
+[2023.10.27-22.56.47:826][458]LogEditorTransaction: Undo Add Node
+[2023.10.27-22.56.48:551][490]LogEditorTransaction: Undo Delete current selection
+[2023.10.27-22.56.56:184][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.27-22.56.56:189][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.56.56:254][296]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.56.56:255][296]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement21531E4D49B7FD846F30AF8BE0DF262A.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.56.56:266][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1:57 min)
+[2023.10.27-22.56.56:273][296]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.56.56:273][296]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.57.50:118][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.27-22.57.50:122][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.57.50:187][468]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.57.50:188][468]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement121F4AC444AF6C404891FC9199053865.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.57.50:201][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:57 min)
+[2023.10.27-22.57.50:208][468]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.57.50:208][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.57.52:699][767]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-22.57.52:702][767]LogBlueprint: Error: [AssetLog] C:\Users\p_delpit\Documents\GitHub\JAM-19.75-WATIBG-\Jam1975\Content\Dimension\BPC_Dimension_Movement.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.10.27-22.57.52:731][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.27-22.57.53:209][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.57.53:272][813]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.57.53:273][813]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement04C249B64493F635DAFCFDBDF540D5F5.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.57.53:287][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1:57 min)
+[2023.10.27-22.57.53:293][813]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.57.53:293][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.58.09:350][667]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-22.58.09:378][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.27-22.58.09:951][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.58.09:986][723]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.58.09:987][723]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement614D60C0435BC2D3A82860AAD1A0A6D7.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.58.09:999][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1:57 min)
+[2023.10.27-22.58.10:006][723]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.58.10:006][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.58.35:657][679]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-22.58.35:686][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.27-22.58.36:150][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.58.36:205][723]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.58.36:205][723]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement634760324AA1E7774623AD9CDDF02B63.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.58.36:218][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1:57 min)
+[2023.10.27-22.58.36:225][723]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.58.36:225][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.58.36:863][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.10.27-22.58.39:562][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.27-22.58.43:310][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.27-22.58.43:314][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.58.43:370][559]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.58.43:371][559]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement07CBDD174F5571ED1AEAB4A09A5627FA.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.58.43:385][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:57 min)
+[2023.10.27-22.58.43:391][559]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.58.43:391][559]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.58.43:958][627]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-22.58.43:985][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.27-22.58.44:583][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.58.44:640][688]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.58.44:640][688]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement4631051643338451AB6AA19FBF03FE36.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.58.44:653][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1:57 min)
+[2023.10.27-22.58.44:659][688]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.58.44:659][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.58.44:950][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.27-22.58.45:438][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:439][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:439][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:440][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:440][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:440][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:441][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:441][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:441][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:442][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.45:442][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.27-22.58.56:961][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-22.58.58:054][647]LogShaderCompilers: Display: ================================================
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Total job queries 5 823, among them cache hits 779 (13.38%)
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Tracking 5 040 distinct input hashes that result in 3 245 distinct outputs (64.38%)
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: RAM used: 100,99 MiB of 819,20 MiB budget. Usage: 12.33%
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Shaders Compiled: 5 109
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Jobs assigned 5 112, completed 5 109 (99.94%)
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Average time worker was idle: 70.41 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 14.13 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Job execution time: average 130.04 s, max 365.72 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Job life time (pending + execution): average 130.21 s, max 366.15
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 712.70 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Jobs were issued in 1 275 batches (785 local, 490 distributed), average 4.01 jobs/batch (1.10 jobs/local batch. 8.67 jobs/distributed batch)
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Average processing rate: 7.17 jobs/sec
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Total thread time: 4 318,328 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Total thread preprocess time: 129,056 s
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Percentage time preprocessing: 2.99%
+[2023.10.27-22.58.58:055][647]LogShaderCompilers: Display: Effective parallelization: 6.06 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.10.27-22.58.58:057][647]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.27-22.58.58:057][647]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 6.44 sec, max 11.90 sec, min 2.04 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.06 sec, max 9.75 sec, min 3.90 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                          TVoxelizeVolumePS<VMode_Object_Box> (compiled    1 times, average 2.77 sec, max 2.77 sec, min 2.77 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.56 sec, max 4.84 sec, min 1.43 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 2.41 sec, max 2.41 sec, min 2.41 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.97% of total time (compiled  150 times, average 2.01 sec, max 5.33 sec, min 1.48 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.12% of total time (compiled  187 times, average 0.95 sec, max 2.60 sec, min 0.42 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.77% of total time (compiled  162 times, average 1.00 sec, max 3.41 sec, min 0.53 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 3.53% of total time (compiled   96 times, average 1.59 sec, max 4.20 sec, min 1.00 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.21% of total time (compiled  128 times, average 1.08 sec, max 3.52 sec, min 0.58 sec)
+[2023.10.27-22.58.58:058][647]LogShaderCompilers: Display: ================================================
+[2023.10.27-22.58.58:606][681]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.27-22.58.58:606][681]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.27-22.58.58:607][681]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Dimension/Dimension_test.Dimension_test:PersistentLevel.PlayerStart_0
+[2023.10.27-22.58.58:607][681]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.58.58:607][681]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Dimension/Dimension_test.Dimension_test:PersistentLevel.PlayerStart_0
+[2023.10.27-22.58.58:607][681]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.58.59:544][746]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.27-22.58.59:544][746]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.27-22.58.59:546][746]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Dimension/Dimension_test.Dimension_test:PersistentLevel.PlayerStart_1
+[2023.10.27-22.58.59:546][746]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.58.59:547][746]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Dimension/Dimension_test.Dimension_test:PersistentLevel.PlayerStart_1
+[2023.10.27-22.58.59:547][746]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.59.02:597][935]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.59.05:029][ 96]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.59.08:256][311]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.59.10:442][443]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.27-22.59.11:554][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.59.11:629][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.27-22.59.11:640][520]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-22.59.11:641][520]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_test1B61C3D34A87065673E812B6C58068DD.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-22.59.11:649][520]LogFileHelpers: Saving map 'Dimension_test' took 0.046
+[2023.10.27-22.59.11:663][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1:57 min)
+[2023.10.27-22.59.11:669][520]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-22.59.11:669][520]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-22.59.12:043][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.27-22.59.32:400][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.27-22.59.32:404][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.59.32:471][753]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.59.32:471][753]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement07C5A6DA4D224892C81A17A0F20B0087.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.59.32:487][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1:58 min)
+[2023.10.27-22.59.32:494][753]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.59.32:494][753]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.59.51:661][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.27-22.59.51:666][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-22.59.51:721][ 32]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-22.59.51:721][ 32]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement94593CC54235C0ADEDAB35B5B15A6AA9.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-22.59.51:735][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1:58 min)
+[2023.10.27-22.59.51:742][ 32]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-22.59.51:742][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-22.59.59:940][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.27-22.59.59:944][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.00:004][971]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.00:005][971]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementF19B77CC46403FB1551AAD808F60C6B2.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.00:021][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1:58 min)
+[2023.10.27-23.00.00:028][971]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.00:028][971]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.01:699][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.27-23.00.01:703][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.01:773][169]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.01:774][169]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementC068F6F1453744431CD10188902B840F.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.01:789][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1:58 min)
+[2023.10.27-23.00.01:797][169]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.01:797][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.12:673][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.10.27-23.00.12:677][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.12:741][468]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.12:742][468]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementAEFB124A4116C1ADB6599CA954040967.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.12:756][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1:58 min)
+[2023.10.27-23.00.12:762][468]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.12:762][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.18:393][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.27-23.00.18:397][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.18:454][137]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.18:454][137]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementF03122314B8BA2E577C527B1F9E829B3.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.18:468][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:58 min)
+[2023.10.27-23.00.18:475][137]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.18:475][137]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.27:065][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.27-23.00.27:070][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.27:138][126]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.27:139][126]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement02929D7B4249AFCC77B06095C0A32B7E.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.27:153][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:58 min)
+[2023.10.27-23.00.27:159][126]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.27:159][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.30:108][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.27-23.00.30:112][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.30:173][462]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.30:174][462]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement8BF6F54C40DA205E312CB68EC676CEBA.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.30:187][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1:58 min)
+[2023.10.27-23.00.30:194][462]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.30:194][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.31:742][644]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.00.31:770][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-23.00.32:152][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.00.32:224][675]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.00.32:225][675]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement90CB279B48A2FDA694BE74B53E428B7D.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.00.32:237][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1:58 min)
+[2023.10.27-23.00.32:244][675]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.00.32:244][675]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.00.32:601][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.10.27-23.00.34:460][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.27-23.01.09:568][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.27-23.01.09:572][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.09:635][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionUndoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset" SILENT=true
+[2023.10.27-23.01.09:641][920]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionUndoor
+[2023.10.27-23.01.09:642][920]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionUndoor8A17F84149B61842556F92AB7D03CCDF.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset'
+[2023.10.27-23.01.09:654][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1:58 min)
+[2023.10.27-23.01.09:662][920]AssetCheck: New page: Asset Save: BP_DimensionUndoor
+[2023.10.27-23.01.09:662][920]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionUndoor.BP_DimensionUndoor
+[2023.10.27-23.01.26:003][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.27-23.01.29:744][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.27-23.01.29:748][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.29:802][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionUndoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset" SILENT=true
+[2023.10.27-23.01.29:808][252]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionUndoor
+[2023.10.27-23.01.29:809][252]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionUndoor40268AC341C4172EB2CA8BB359ADD501.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset'
+[2023.10.27-23.01.29:824][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1:58 min)
+[2023.10.27-23.01.29:831][252]AssetCheck: New page: Asset Save: BP_DimensionUndoor
+[2023.10.27-23.01.29:831][252]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionUndoor.BP_DimensionUndoor
+[2023.10.27-23.01.31:057][399]BlueprintLog: New page: Compile BP_DimensionUndoor
+[2023.10.27-23.01.31:165][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.27-23.01.31:175][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.01.31:175][399]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.01.31:193][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.01.31:193][399]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-23.01.31:236][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.01.31:236][399]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_6:PersistentLevel.BP_DimensionDoor_C_0
+[2023.10.27-23.01.31:255][399]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/Dimension/BP_DimensionDoor.BP_DimensionDoor_C:UserConstructionScript'!
+[2023.10.27-23.01.31:255][399]LogScript: Warning: Script Msg called by: BP_DimensionDoor_C /Engine/Transient.World_9:PersistentLevel.BP_DimensionDoor_C_75
+[2023.10.27-23.01.32:033][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.32:084][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimension/BP_DimensionUndoor" FILE="../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset" SILENT=true
+[2023.10.27-23.01.32:090][465]LogSavePackage: Moving output files for package: /Game/Dimension/BP_DimensionUndoor
+[2023.10.27-23.01.32:091][465]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_DimensionUndoor6248824E4761376F6B222C9723EFBB5B.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BP_DimensionUndoor.uasset'
+[2023.10.27-23.01.32:103][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1:58 min)
+[2023.10.27-23.01.32:109][465]AssetCheck: New page: Asset Save: BP_DimensionUndoor
+[2023.10.27-23.01.32:109][465]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BP_DimensionUndoor.BP_DimensionUndoor
+[2023.10.27-23.01.32:736][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.27-23.01.32:742][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.32:827][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.27-23.01.32:838][537]LogSavePackage: Moving output files for package: /Game/Dimension/Dimension_test
+[2023.10.27-23.01.32:839][537]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Dimension_test8864C56C43F840E879BB39BD76AB94D6.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/Dimension_test.umap'
+[2023.10.27-23.01.32:850][537]LogFileHelpers: Saving map 'Dimension_test' took 0.049
+[2023.10.27-23.01.32:863][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:59 min)
+[2023.10.27-23.01.32:874][537]AssetCheck: New page: Asset Save: Dimension_test
+[2023.10.27-23.01.32:875][537]LogContentValidation: Display: Validating /Script/Engine.World /Game/Dimension/Dimension_test.Dimension_test
+[2023.10.27-23.01.39:132][272]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.01.39:160][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.27-23.01.39:584][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.39:640][306]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.01.39:640][306]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementE509F971461D7AAA9244839F0E20CC67.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.01.39:652][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1:59 min)
+[2023.10.27-23.01.39:659][306]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.01.39:659][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.01.39:894][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.27-23.01.45:156][953]LogEditorTransaction: Undo Delete current selection
+[2023.10.27-23.01.46:620][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.27-23.01.46:624][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.46:689][ 50]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.01.46:690][ 50]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementCDC0B06B4725877AE36D898C97294E34.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.01.46:707][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1:59 min)
+[2023.10.27-23.01.46:713][ 50]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.01.46:713][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.01.47:650][161]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.01.47:679][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.27-23.01.48:042][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.01.48:108][188]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.01.48:109][188]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_MovementB0C31AD94109D5FC21D186B1CC85C9B3.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.01.48:123][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:59 min)
+[2023.10.27-23.01.48:129][188]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.01.48:129][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.01.48:480][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-23.02.04:506][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.10.27-23.02.04:506][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.02.04:506][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-23.02.04:712][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-23.02.53:619][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.27-23.02.53:624][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.02.53:675][486]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.02.53:676][486]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement5D95CFAC407EB2675110E58E66539F30.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.02.53:689][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1:59 min)
+[2023.10.27-23.02.53:696][486]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.02.53:696][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.02.55:133][657]BlueprintLog: New page: Compile BPC_Dimension_Movement
+[2023.10.27-23.02.55:163][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.27-23.02.55:751][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.02.55:806][710]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.02.55:807][710]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement5E315BF54DC4757B3DFECF897766B9CC.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.02.55:821][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1:59 min)
+[2023.10.27-23.02.55:827][710]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.02.55:827][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.03.00:904][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.27-23.03.00:908][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.03.00:974][313]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.03.00:975][313]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement664CE0D74A97BA0732887FB208E894C5.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.03.00:989][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:59 min)
+[2023.10.27-23.03.00:995][313]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.03.00:995][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
+[2023.10.27-23.03.09:831][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.27-23.03.09:835][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-23.03.09:909][353]LogSavePackage: Moving output files for package: /Game/Dimension/BPC_Dimension_Movement
+[2023.10.27-23.03.09:910][353]LogSavePackage: Moving '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BPC_Dimension_Movement669DDD464CABDAC3929D569DDAC5353F.tmp' to '../../../../../Users/p_delpit/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Dimension/BPC_Dimension_Movement.uasset'
+[2023.10.27-23.03.09:923][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1:59 min)
+[2023.10.27-23.03.09:929][353]AssetCheck: New page: Asset Save: BPC_Dimension_Movement
+[2023.10.27-23.03.09:929][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Dimension/BPC_Dimension_Movement.BPC_Dimension_Movement
