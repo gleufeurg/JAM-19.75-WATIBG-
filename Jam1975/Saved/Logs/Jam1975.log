@@ -1244,3 +1244,18 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.10.27-19.05.29:164][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 275 ms)
 [2023.10.27-19.05.29:169][824]AssetCheck: New page: Asset Save: BPC_Skill
 [2023.10.27-19.05.29:169][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/BPC_Skill.BPC_Skill
+[2023.10.27-19.06.14:483][979]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.06.14:554][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.06.14:568][981]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.06.16:983][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.10.27-19.06.16:983][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-19.06.16:983][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-19.06.19:051][309]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.10.27-19.06.30:609][576]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.10.27-19.06.30:749][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.27-19.06.31:243][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.27-19.06.31:332][613]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.10.27-19.06.31:332][613]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_FirstPersonCharacter13F1803B44631797B02FC89F3946D3A1.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.10.27-19.06.31:341][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 373 ms)
+[2023.10.27-19.06.31:348][613]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.10.27-19.06.31:348][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
