@@ -1845,3 +1845,138 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-20.52.46:146][184]LogInterchangeEngine: [Success] Import Done
 [2023.10.27-20.52.46:150][184]LogInterchangeEngine: [Success] Import Done
 [2023.10.27-20.52.46:160][184]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-20.53.16:719][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.10.27-20.53.16:721][592]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.037
+[2023.10.27-20.53.16:722][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Normal] ([1] browsable assets)...
+[2023.10.27-20.53.16:725][592]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/Capa_Image/Capa_Normal.Capa_Normal]
+[2023.10.27-20.53.16:725][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Normal]
+[2023.10.27-20.53.16:728][592]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Normal_Auto2
+[2023.10.27-20.53.16:728][592]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Normal_Auto28BFEB08041E93A417C02A7BD628D5825.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Normal_Auto2.uasset'
+[2023.10.27-20.53.16:730][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Off] ([1] browsable assets)...
+[2023.10.27-20.53.16:732][592]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/Capa_Image/Capa_Off.Capa_Off]
+[2023.10.27-20.53.16:732][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Off]
+[2023.10.27-20.53.16:736][592]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Off_Auto2
+[2023.10.27-20.53.16:736][592]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Off_Auto221C1099D41D2608713F8189077BFD7E7.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Off_Auto2.uasset'
+[2023.10.27-20.53.16:737][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Usable] ([1] browsable assets)...
+[2023.10.27-20.53.16:739][592]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/Capa_Image/Capa_Usable.Capa_Usable]
+[2023.10.27-20.53.16:740][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Usable]
+[2023.10.27-20.53.16:743][592]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Usable_Auto2
+[2023.10.27-20.53.16:743][592]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Usable_Auto235951F3C4C490FAE8EDEC1833E46F894.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Usable_Auto2.uasset'
+[2023.10.27-20.53.16:745][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Coldwon] ([1] browsable assets)...
+[2023.10.27-20.53.16:747][592]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Import/Capa_Image/Capa_Coldwon.Capa_Coldwon]
+[2023.10.27-20.53.16:747][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Coldwon]
+[2023.10.27-20.53.16:751][592]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Coldwon_Auto2
+[2023.10.27-20.53.16:751][592]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Coldwon_Auto2AEFE6B6040E417F82D319EA76F65F511.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Coldwon_Auto2.uasset'
+[2023.10.27-20.53.16:752][592]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.10.27-20.55.44:785][ 37]LogDerivedDataCache: C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.133 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 755 files in 1299 folders with total size 55 MiB.
+[2023.10.27-21.11.13:380][701]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widget/WBP_Capa_Full.WBP_Capa_Full
+[2023.10.27-21.11.13:380][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-21.11.13:380][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-21.11.13:393][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-21.11.13:393][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-21.11.57:365][851]LogEditorTransaction: Undo Edit Y
+[2023.10.27-21.12.10:964][405]BlueprintLog: New page: Compile WBP_Capa_Full
+[2023.10.27-21.12.11:000][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.27-21.12.27:853][105]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.27-21.12.27:860][105]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.27-21.12.27:870][105]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.27-21.12.27:883][106]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.27-21.12.45:662][229]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.27-21.12.45:662][229]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.27-21.12.54:095][228]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HUD
+[2023.10.27-21.12.54:101][228]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.27-21.12.55:629][390]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widget/WBP_HUD.WBP_HUD
+[2023.10.27-21.12.55:629][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-21.12.55:629][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-21.12.55:644][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.27-21.12.55:644][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.27-21.13.15:235][682]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.27-21.15.52:342][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.27-21.15.53:278][418]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.27-21.15.53:369][418]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-21.15.53:369][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-21.15.53:376][418]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.27-21.15.53:376][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.27-21.15.53:392][418]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/Widget/WBP_Capa_Full.WBP_Capa_Full
+	Asset Type: WidgetBlueprint
+[2023.10.27-21.15.54:063][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.27-21.15.54:092][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.27-21.15.54:116][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.27-21.15.56:659][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.27-21.15.57:472][700]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.27-21.15.57:506][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.27-21.15.57:533][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.10.27-21.15.57:556][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.27-21.15.58:363][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.27-21.15.59:084][780]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.27-21.15.59:120][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.27-21.15.59:145][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.27-21.15.59:172][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.27-21.16.00:070][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.27-21.16.00:810][873]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.27-21.16.00:843][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.27-21.16.00:869][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.27-21.16.00:894][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: ================================================
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Total job queries 3 580, among them cache hits 22 (0.61%)
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Tracking 3 555 distinct input hashes that result in 2 521 distinct outputs (70.91%)
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: RAM used: 58,94 MiB of 819,20 MiB budget. Usage: 7.19%
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Shaders Compiled: 3 555
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Jobs assigned 3 558, completed 3 555 (99.92%)
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Average time worker was idle: 251.19 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 54.01 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Job execution time: average 159.77 s, max 339.84 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Job life time (pending + execution): average 160.24 s, max 340.24
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 412.47 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Jobs were issued in 411 batches (85 local, 326 distributed), average 8.66 jobs/batch (1.60 jobs/local batch. 10.50 jobs/distributed batch)
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Average processing rate: 8.62 jobs/sec
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Total thread time: 3 047,799 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Total thread preprocess time: 88,079 s
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Percentage time preprocessing: 2.89%
+[2023.10.27-21.17.28:568][128]LogShaderCompilers: Display: Effective parallelization: 7.39 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 11.29 sec, max 11.29 sec, min 11.29 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 10.42 sec, max 10.42 sec, min 10.42 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 6.00 sec, max 6.00 sec, min 6.00 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 5.99 sec, max 13.56 sec, min 1.55 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.78 sec, max 5.78 sec, min 5.78 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.24% of total time (compiled  150 times, average 1.67 sec, max 3.29 sec, min 1.43 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.69% of total time (compiled   34 times, average 5.99 sec, max 13.56 sec, min 1.55 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.32% of total time (compiled   96 times, average 1.37 sec, max 3.30 sec, min 0.98 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.99% of total time (compiled  128 times, average 0.95 sec, max 2.71 sec, min 0.56 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.75% of total time (compiled   96 times, average 1.19 sec, max 2.25 sec, min 0.60 sec)
+[2023.10.27-21.17.28:571][128]LogShaderCompilers: Display: ================================================
+[2023.10.27-21.19.27:302][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.27-21.19.27:305][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2023.10.27-21.19.27:305][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Usable] ([1] browsable assets)...
+[2023.10.27-21.19.27:305][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Usable]
+[2023.10.27-21.19.27:307][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Usable_Auto3
+[2023.10.27-21.19.27:307][889]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Usable_Auto3422E87E743744C8006DAF8981005F088.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Usable_Auto3.uasset'
+[2023.10.27-21.19.27:308][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Off] ([1] browsable assets)...
+[2023.10.27-21.19.27:308][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Off]
+[2023.10.27-21.19.27:310][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Off_Auto3
+[2023.10.27-21.19.27:310][889]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Off_Auto3B1FFBE134B70AB8B78A28AA0960A46B3.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Off_Auto3.uasset'
+[2023.10.27-21.19.27:311][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widget/WBP_HUD] ([2] browsable assets)...
+[2023.10.27-21.19.27:315][889]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widget/WBP_HUD.WBP_HUD]
+[2023.10.27-21.19.27:315][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widget/WBP_HUD]
+[2023.10.27-21.19.27:318][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widget/WBP_HUD_Auto3
+[2023.10.27-21.19.27:318][889]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WBP_HUD_Auto3E0D4142D451E7DDCD39F7198C38EF0EA.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Widget/WBP_HUD_Auto3.uasset'
+[2023.10.27-21.19.27:319][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Coldwon] ([1] browsable assets)...
+[2023.10.27-21.19.27:319][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Coldwon]
+[2023.10.27-21.19.27:321][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Coldwon_Auto3
+[2023.10.27-21.19.27:321][889]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Coldwon_Auto36AB9BE044A8FF515C5A568A0664D0EE2.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Coldwon_Auto3.uasset'
+[2023.10.27-21.19.27:322][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Import/Capa_Image/Capa_Normal] ([1] browsable assets)...
+[2023.10.27-21.19.27:322][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Import/Capa_Image/Capa_Normal]
+[2023.10.27-21.19.27:324][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Import/Capa_Image/Capa_Normal_Auto3
+[2023.10.27-21.19.27:324][889]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Capa_Normal_Auto38C2C4C124A3FC37410C99C90BD51822C.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Import/Capa_Image/Capa_Normal_Auto3.uasset'
+[2023.10.27-21.19.27:326][889]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.10.27-21.19.30:236][900]LogInterchangeEngine: [Pending] Importing
+[2023.10.27-21.19.30:236][900]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/c_char...nloads/Jam19.75Capa_Usable.png]
+[2023.10.27-21.19.30:240][900]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.27-21.19.30:243][900]LogTexture: Display: Building textures: /Game/UI/Import/Capa_Image/Capa_Usable.Capa_Usable (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Fast
+[2023.10.27-21.19.30:244][900]LogInterchangeEngine: [Success] Import Done
+[2023.10.27-21.19.30:270][901]LogInterchangeEngine: [Success] Import Done
