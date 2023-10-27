@@ -4047,3 +4047,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-22.26.18:398][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.10.27-22.26.18:401][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2023.10.27-22.26.18:448][970]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.10.27-22.32.00:132][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.27-22.32.00:134][178]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.042
+[2023.10.27-22.32.00:134][178]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.10.27-22.32.00:231][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.10.27-22.32.00:231][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.10.27-22.32.00:246][178]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2023.10.27-22.32.00:246][178]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/BP_FirstPersonCharacter_Auto8150A4E90472DE33346CD45A43785905E.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2023.10.27-22.32.00:247][178]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widget/WPB_PauseMenu] ([2] browsable assets)...
+[2023.10.27-22.32.00:251][178]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widget/WPB_PauseMenu.WPB_PauseMenu]
+[2023.10.27-22.32.00:251][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widget/WPB_PauseMenu]
+[2023.10.27-22.32.00:263][178]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widget/WPB_PauseMenu_Auto8
+[2023.10.27-22.32.00:263][178]LogSavePackage: Moving '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/WPB_PauseMenu_Auto8FBE9CDDE4E943F6E26786CB9BF4B1F69.tmp' to '../../../../../Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Saved/Autosaves/Game/UI/Widget/WPB_PauseMenu_Auto8.uasset'
+[2023.10.27-22.32.00:264][178]LogFileHelpers: Auto-saving content packages took 0.129
+[2023.10.27-22.55.44:816][452]LogDerivedDataCache: C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.163 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 788 files in 1343 folders with total size 55 MiB.
