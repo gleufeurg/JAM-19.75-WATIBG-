@@ -4192,3 +4192,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.27-23.44.56:926][432]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2023.10.27-23.49.23:116][ 33]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Spike.IA_Spike
 [2023.10.27-23.49.38:920][912]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2023.10.27-23.55.45:718][324]LogDerivedDataCache: C:/Users/c_charvoz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 792 files in 1351 folders with total size 55 MiB.
