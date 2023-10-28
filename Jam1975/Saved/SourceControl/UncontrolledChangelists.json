@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Level.umap",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Core/BPC_Skill.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Input/Actions/IA_Spike.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BP_Spike.uasset",
+				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/E2/YJU0N0C325LMFH6IDBEWTH.uasset",
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/TesteUI.uasset",
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/TesteImage.uasset",
@@ -20,12 +28,7 @@
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/Capa_Image/Capa_Normal.uasset",
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Widget/WPB_PauseMenu.uasset",
 				"C:/Users/c_charvoz/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/UI/Import/Pause_Menu_Frame.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Level.umap",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Core/BPC_Skill.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Input/Actions/IA_Pick.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Input/Actions/IA_Spike.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/BPC_Spike.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Background/Cube.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Background/Material.uasset",
@@ -34,8 +37,6 @@
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Background/SM_SimpleCubeTEST.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Background/MaterialTEST.uasset",
 				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/BG/BP_Cube.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BPC_Spike.uasset",
-				"C:/Users/t_lefevre1/Documents/GitHub/JAM-19.75-WATIBG-/Jam1975/Content/Skills/Spike/BP_Spike.uasset",
 				"C:/Users/t_lefevre1/Documents/Unreal Projects/Jam1975/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
